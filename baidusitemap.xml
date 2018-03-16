@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://www.ypc.world/%E8%B0%83%E6%95%99Hexo%E4%B9%8B%E4%B8%AA%E6%80%A7%E5%8C%96/</loc>
-    <lastmod>2018-03-16T11:38:12.616Z</lastmod>
+    <lastmod>2018-03-16T17:16:40.305Z</lastmod>
     <data>
         <display>
         <title>调教Hexo之个性化</title>
@@ -20,7 +20,7 @@
     
   <url>
     <loc>https://www.ypc.world/Hexo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2018-03-16T11:03:21.349Z</lastmod>
+    <lastmod>2018-03-16T17:16:34.081Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建教程</title>
@@ -39,15 +39,22 @@
 
     
   <url>
-    <loc>https://www.ypc.world/hello-world/</loc>
-    <lastmod>2018-03-15T10:23:04.474Z</lastmod>
+    <loc>https://www.ypc.world/Linux%E4%B8%8B%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2018-03-16T17:16:01.821Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2018-03-15T10:23:04.474Z</pubTime>
+        <title>Linux下树莓派安装教程</title>
+        <pubTime>2018-03-16T17:03:37.000Z</pubTime>
         
+        <tag>Raspberry</tag>
+         
+        <tag>教程</tag>
+         
          
            
+             
+              <breadCrumb title="Raspberry" url="https://www.ypc.world/categories/Raspberry/"/>
+          
         </display>
     </data>
     </url>
